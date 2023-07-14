@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-07T22:44:33 CDT" name="Default suite" finished-at="2023-07-07T22:44:36 CDT" duration-ms="3814">
+    <groups>
+    </groups>
+    <test started-at="2023-07-07T22:44:33 CDT" name="Default test" finished-at="2023-07-07T22:44:36 CDT" duration-ms="3814">
+      <class name="variousConcept.TestNGTEST">
+        <test-method is-config="true" signature="init()[pri:0, instance:variousConcept.TestNGTEST@60bd273d]" started-at="2023-07-07T22:44:33 CDT" name="init" finished-at="2023-07-07T22:44:35 CDT" duration-ms="2563" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="LoginTest()[pri:0, instance:variousConcept.TestNGTEST@60bd273d]" started-at="2023-07-07T22:44:35 CDT" name="LoginTest" finished-at="2023-07-07T22:44:36 CDT" duration-ms="1032" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:variousConcept.TestNGTEST@60bd273d]" started-at="2023-07-07T22:44:36 CDT" name="teardown" finished-at="2023-07-07T22:44:36 CDT" duration-ms="138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- variousConcept.TestNGTEST -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
